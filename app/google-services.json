@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844894915638",
+    "project_id": "pam-kelompok",
+    "storage_bucket": "pam-kelompok.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844894915638:android:ca82c95d417a71431d9c97",
+        "android_client_info": {
+          "package_name": "com.example.pamkelompok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-qUxKwyBl1Ujr7-Bhn_X65VR9J_k9Pjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
